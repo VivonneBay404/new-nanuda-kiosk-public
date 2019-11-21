@@ -1,7 +1,6 @@
 {
   "name": "new-nanuda-kiosk",
-  "version": "0.1.2",
-  "private": true,
+  "version": "0.1.4",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
