@@ -1,0 +1,6 @@
+appId: com.example.new-nanuda-kiosk
+publish:
+  provider: github
+  owner: VivonneBay404
+  repo: https://github.com/VivonneBay404/new-nanuda-kiosk-public.git
+  token: edbc57b4ab4de77a9804db366cc73ff243532bc0
